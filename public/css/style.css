@@ -103,9 +103,22 @@ nav{
 
 #sec4enfant1{
     text-align: center;
+    margin-top: 150px;
 }
 
 #sec4enfant2{
     display: flex;
+    justify-content: center;
 }
 
+.sec4petitfils{
+    padding: 50px;
+    border: black solid 1px;
+    text-align: center;
+    width: 250px;
+}
+
+/* fin de la section 4
+f
+f 
+f */

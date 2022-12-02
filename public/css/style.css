@@ -77,5 +77,29 @@ nav{
     border: solid black 2px;
 }
 
+/* fin de la section 2 debut de la 3
+3 3
+3
+3 */
+
+#sec3enfant1{
+    text-align: center;
+    margin-top: 150px;
+}
+
+#sec3enfant2{
+    display: flex;
+    justify-content: center;
+}
+
+.sec3petitfils{
+    margin: 10px;
+}
+
+/* fin de la section 3 debut de la 4
+4
+4
+4 */
+
 
 

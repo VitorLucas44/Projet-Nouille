@@ -1,3 +1,167 @@
+
+nav{
+    background-image: url(../img/header.jpg);
+    height: 650px;
+    background-size: 1500px;
+    
+    /* background: rgb(105,90,164);
+    background: linear-gradient(180deg, rgba(105,90,164,1) 0%, rgba(255,255,255,1) 94%);
+    opacity: 0.5; */
+    
+}
+
+#merenav{
+    display: flex;
+    width: 100%;
+}
+
+#enfantnav1{
+    position: relative;
+    left: 50px;
+}
+
+#enfantnav{
+    display: flex;
+    width: 50%;
+    position: relative;
+   left: 800px;
+   top: 15px;
+}
+
+.navwrd{
+    padding: 15px;
+    font-weight: bold;
+}
+
+#nav{
+    font-size: 30px;
+    position: relative;
+    left: 500px;
+    top: 100px;
+}
+
+.ttre{
+    font-size: 50px;
+    color:#42464d ;
+}
+
+/* partie section 1
+1
+1
+1 */
+
+#sec1{
+    display: flex;
+    margin: 100px;
+}
+
+#enfant2sec1{
+    width: 700px;
+    font-size: x-large;
+}
+
+/* fin de la section 1 debut de la 2
+2
+2
+2 */
+
+#sec2enfant1{
+    text-align: center;
+}
+
+#sec2enfant2{
+    display: flex;
+    margin-right: 200px;
+    margin-left: 200px;
+    text-align: center;
+    
+}
+
+.sec2petitfils{
+    margin: 30px;
+    padding: 50px;
+    border: solid black 2px;
+}
+
+/* fin de la section 2 debut de la 3
+3 3
+3
+3 */
+
+#sec3enfant1{
+    text-align: center;
+    margin-top: 150px;
+}
+
+#sec3enfant2{
+    display: flex;
+    justify-content: center;
+}
+
+.sec3petitfils{
+    margin: 10px;
+}
+
+/* fin de la section 3 debut de la 4
+4
+4
+4 */
+
+#sec4enfant1{
+    text-align: center;
+    margin-top: 150px;
+}
+
+#sec4enfant2{
+    display: flex;
+    justify-content: center;
+}
+
+.sec4petitfils{
+    padding: 50px;
+    border: black solid 1px;
+    text-align: center;
+    width: 250px;
+}
+
+/* fin de la section 4
+f
+f 
+f */
+
+h1{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #695aa6 ; 
+    font-size: 30px;
+}
+
+button{
+    border-radius: 90px;
+    background-color: #695aa6;
+    color: white;
+    border-color: #695aa6;
+    width: 150px;
+    height: 50px;
+}
+
+.btn2{
+    border-radius: 90px;
+    background-color: white;
+    color:#695aa6;
+    border-color: #695aa6;
+    width: 150px;
+    height: 50px;
+}
+
+.btn3{
+    background-color: #695aa6;
+    color:rgb(255, 255, 255);
+    border-color: #695aa6;
+    width: 150px;
+    height: 50px;
+    border-radius: 0px;
+}
+=======
 body{
     margin: 0;
     padding: 0;
@@ -207,3 +371,4 @@ hr{
     margin-right: 150px;
     color: #6d747d;
 }
+

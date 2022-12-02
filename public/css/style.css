@@ -54,4 +54,28 @@ nav{
     font-size: x-large;
 }
 
+/* fin de la section 1 debut de la 2
+2
+2
+2 */
+
+#sec2enfant1{
+    text-align: center;
+}
+
+#sec2enfant2{
+    display: flex;
+    margin-right: 200px;
+    margin-left: 200px;
+    text-align: center;
+    
+}
+
+.sec2petitfils{
+    margin: 30px;
+    padding: 50px;
+    border: solid black 2px;
+}
+
+
 

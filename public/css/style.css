@@ -36,7 +36,12 @@ nav{
     font-size: 30px;
     position: relative;
     left: 500px;
-    top: 150px;
+    top: 100px;
+}
+
+.ttre{
+    font-size: 50px;
+    color:#42464d ;
 }
 
 /* partie section 1
@@ -122,3 +127,36 @@ nav{
 f
 f 
 f */
+
+h1{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #695aa6 ; 
+    font-size: 30px;
+}
+
+button{
+    border-radius: 90px;
+    background-color: #695aa6;
+    color: white;
+    border-color: #695aa6;
+    width: 150px;
+    height: 50px;
+}
+
+.btn2{
+    border-radius: 90px;
+    background-color: white;
+    color:#695aa6;
+    border-color: #695aa6;
+    width: 150px;
+    height: 50px;
+}
+
+.btn3{
+    background-color: #695aa6;
+    color:rgb(255, 255, 255);
+    border-color: #695aa6;
+    width: 150px;
+    height: 50px;
+    border-radius: 0px;
+}

@@ -1,3 +1,4 @@
+
 nav{
     background-image: url(../img/header.jpg);
     height: 650px;
@@ -160,3 +161,214 @@ button{
     height: 50px;
     border-radius: 0px;
 }
+=======
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.violet{
+    width: 100%;
+    height: 130px;
+    background-color: #695aa4;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.txtviolet span:nth-child(1){
+    color: white;
+    font-weight: bold;
+    font-size: large;
+   
+}
+.txtviolet span:nth-child(2){
+    color: white;
+    font-weight: normal;
+    font-size: smaller;
+}
+.boutonv button{
+    color: black;
+    font-weight:900;
+    width: 85px;
+    height: 40px;
+    font-size: 15px;
+    border-radius: 5%;
+    border: none;
+}
+.boutonv {
+    border: none;
+    margin-right: 10%;
+}
+.clienttitre{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 5%;
+}
+
+h1{
+    color: #695aa4;
+    font-size: 20;
+}
+.clienttitre span{
+    color: #6e6f6e;
+    opacity:80%;
+}
+.client{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 3%;
+
+}
+.client1{
+    width: 35%;
+    height: 200px;
+    border: 1px solid #e6e9ec;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10%;
+   
+}
+.client1 b{
+    color: #695aa4;
+    font-weight: bold 900;
+    font-size: 18px;
+
+}
+.client2 b{
+    color: #695aa4;
+    font-size: 18px;
+
+}
+.client2{
+    width: 35%;
+    height: 200px;
+    border: 1px solid #e6e9ec;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10%;
+   
+}
+.clientimg2 img{
+    width: 100px;
+    border-radius: 100%;
+    position: relative;
+    right: 50px;
+    top: 10px;
+}
+
+.blog{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 10%;
+    margin-bottom: 3%;
+}
+.blog span{
+    color: #6e6f6e;
+    opacity:80%;
+}
+.tableau1 img{
+    width: 320px;
+    height: 100%;
+}
+.tableau1{
+    display: flex;
+    border: 1px solid #e6e9ec;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.tabtxt1{
+    margin: auto;
+    margin-left: 3%;
+    margin-bottom: 3%;
+}
+.tabtxt1 p{
+    color: #6e6f6e;
+}
+.tabtxt1 span{
+    color: #6e6f6e;
+}
+.tabtxt1 span3{
+    color: #6e6f6e;
+}
+.tabtxt1 span4{
+    color: #695aa4;
+}
+.tabtxt1 span4::after{
+    content: url(/public/img/icons8-double-droite-50.png);
+    color: #695aa4;
+    width: 12px;
+    height: 12px;
+    display: inline-block;
+}
+.tableau2{
+    display: flex;
+    border: 1px solid #e6e9ec;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 2%;
+}
+.tableau2 img{
+    width: 320px;
+    height: 100%;
+}
+.nouille{
+    display: flex;
+    justify-content: end;
+}
+.footertitre{
+    margin-right: 10%;
+    margin-bottom: 2%;
+}
+.ft1{
+    position: absolute;
+    left: 10%;
+}
+.footertitre span{
+    margin-left: 13px;
+    color: #6d747d;
+    font-weight: bold;
+}
+.mail{
+    text-align: center;
+}
+input{
+    width: 50%;
+    height: 100px;
+}
+input::placeholder{
+    margin: 0;
+    padding: 0;
+    position: relative;
+    bottom: 40px;
+}
+.btn button{
+    background-color: white;
+    color: #695aa4;
+    border: 2px solid #695aa4;opacity: 80%;
+    font-weight: bold;
+    border-radius: 4%;
+    border-top: 3px solid #695aa4;opacity: 80%;;
+    height: 30px;
+}
+.btn{
+    text-align: center;
+    margin-top: 2%;
+}
+hr{
+    width: 80%;
+}
+.footerc{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    margin-left: 150px;
+    margin-right: 150px;
+    color: #6d747d;
+}
+

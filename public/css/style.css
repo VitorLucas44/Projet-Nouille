@@ -135,5 +135,9 @@ h1{
     color: #695aa4;
 }
 .tabtxt1 span4::after{
-    content: ">>";
+    content: url(/public/img/icons8-double-droite-50.png);
+    color: #695aa4;
+    width: 12px;
+    height: 12px;
+    display: inline-block;
 }

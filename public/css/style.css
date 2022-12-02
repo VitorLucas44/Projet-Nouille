@@ -159,8 +159,12 @@ h1{
 }
 .footertitre{
     margin-right: 10%;
-    padding-bottom: 2%;
+    margin-bottom: 2%;
+}
+.ft1{
+    position: absolute;
+    left: 10%;
 }
 .footertitre span{
-    margin-right: 10px;
+    margin-left: 10px;
 }

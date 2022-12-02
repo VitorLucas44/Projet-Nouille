@@ -167,6 +167,8 @@ h1{
 }
 .footertitre span{
     margin-left: 13px;
+    color: #6d747d;
+    font-weight: bold;
 }
 .mail{
     text-align: center;
@@ -203,4 +205,5 @@ hr{
     justify-content: space-between;
     margin-left: 150px;
     margin-right: 150px;
+    color: #6d747d;
 }

@@ -1,0 +1,25 @@
+nav{
+    background-image: url(../img/header.jpg);
+    height: 650px;
+    background-size: 1500px;
+    /* background: rgb(105,90,164);
+    background: linear-gradient(180deg, rgba(105,90,164,1) 0%, rgba(255,255,255,1) 94%);
+    opacity: 0.5; */
+    
+}
+
+#merenav{
+    display: flex;
+}
+
+#enfantnav{
+    display: flex;
+}
+
+#nav{
+    font-size: 30px;
+    position: relative;
+    left: 500px;
+    top: 250px;
+}
+

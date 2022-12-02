@@ -181,3 +181,26 @@ input::placeholder{
     position: relative;
     bottom: 40px;
 }
+.btn button{
+    background-color: white;
+    color: #695aa4;
+    border: 2px solid #695aa4;opacity: 80%;
+    font-weight: bold;
+    border-radius: 4%;
+    border-top: 3px solid #695aa4;opacity: 80%;;
+    height: 30px;
+}
+.btn{
+    text-align: center;
+    margin-top: 2%;
+}
+hr{
+    width: 80%;
+}
+.footerc{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    margin-left: 150px;
+    margin-right: 150px;
+}

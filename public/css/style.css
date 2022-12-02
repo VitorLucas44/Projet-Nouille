@@ -157,3 +157,10 @@ h1{
     display: flex;
     justify-content: end;
 }
+.footertitre{
+    margin-right: 10%;
+    padding-bottom: 2%;
+}
+.footertitre span{
+    margin-right: 10px;
+}

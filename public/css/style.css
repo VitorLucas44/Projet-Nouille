@@ -101,5 +101,11 @@ nav{
 4
 4 */
 
+#sec4enfant1{
+    text-align: center;
+}
 
+#sec4enfant2{
+    display: flex;
+}
 

@@ -2,6 +2,7 @@ nav{
     background-image: url(../img/header.jpg);
     height: 650px;
     background-size: 1500px;
+    
     /* background: rgb(105,90,164);
     background: linear-gradient(180deg, rgba(105,90,164,1) 0%, rgba(255,255,255,1) 94%);
     opacity: 0.5; */
@@ -10,16 +11,47 @@ nav{
 
 #merenav{
     display: flex;
+    width: 100%;
+}
+
+#enfantnav1{
+    position: relative;
+    left: 50px;
 }
 
 #enfantnav{
     display: flex;
+    width: 50%;
+    position: relative;
+   left: 800px;
+   top: 15px;
+}
+
+.navwrd{
+    padding: 15px;
+    font-weight: bold;
 }
 
 #nav{
     font-size: 30px;
     position: relative;
     left: 500px;
-    top: 250px;
+    top: 150px;
 }
+
+/* partie section 1
+1
+1
+1 */
+
+#sec1{
+    display: flex;
+    margin: 100px;
+}
+
+#enfant2sec1{
+    width: 700px;
+    font-size: x-large;
+}
+
 

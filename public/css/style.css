@@ -163,6 +163,12 @@ button{
     border-radius: 0px;
 }
 
+
+
+
+
+/* Vitor css */
+
 body{
     margin: 0;
     padding: 0;
@@ -374,3 +380,103 @@ hr{
     margin-right: 150px;
     color: #6d747d;
 }
+/* fin css vitor */
+
+/* media vitor */
+
+@media only screen and (max-width: 700px) {
+    .client2 {
+      width: 800px;
+      height: 400px;
+      margin-left: 50px;
+      
+    }
+    .client1{
+        width: 700px;
+        height: 400px;
+        margin-left: 50px;
+    }
+    .imgtab1{
+        width: 700px;
+        height: 400px;
+    }
+    /* .tabtxt1{
+        width: 700px;
+        height: 400px;
+    }
+    .tabtxt2{
+        width: 800px;
+        height: 300px;
+    } */
+    /* .tableau1{
+        width: 400px;
+        height: 400px;
+    }
+    .tableau2{
+        width: 400px;
+        height: 400px;
+    } */
+    .tableau1{
+        margin: auto;
+    }
+    .tableau2{
+        margin: auto;
+    }
+    .tabtxt1{
+        font-size: 9px;
+        flex-direction: column;
+        margin: auto;
+
+    }
+    /* .imgtab1{
+        width: 200px;
+        height: 300px;
+    } */
+    .client1{
+        font-size: 14px;
+        flex-direction: column;
+        margin: auto;
+
+    }
+    .client2{
+        font-size: 14px;
+        flex-direction: column;
+        margin: auto;
+
+    }
+    .footertitre img{
+        font-size: 14px;
+    }
+    section:nth-child(4) img{
+        margin: auto;
+        background-color: aqua;
+        width: 130px;
+        height: 130px;
+
+    }
+    /* .sec4petitfils{
+        margin: auto;
+        background-color: aqua;
+        font-size: small;
+        width: 50px;
+        height: 300PX;
+
+    }
+    .sec2petitfils{
+        margin: 0%;
+        width: 300px;
+        height: 300px;
+        flex-direction: column;
+        display: flex;
+    }
+    section:nth-child(3){
+        margin: auto;
+        background-color: aqua;
+        width: 350px;
+        height: 250px;
+
+    } */
+    h1{
+        font-size: 12;
+    }
+  }
